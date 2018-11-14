@@ -24,11 +24,11 @@ Simple Image Crop directive for AngularJS. Enables to crop a circle or a square 
 - Use NPM or Yarn to download the files:
 
 ```sh
-npm install --save angular-img-save
+npm install --save angular-img-crop
 ```
 
 ```sh
-yarn add angular-img-save
+yarn add angular-img-crop
 ```
 
 
