@@ -6,7 +6,7 @@
   "name": "angular-img-crop",
   "prettyName": "angularImgCrop",
   "main": "compile/unminified/ng-img-crop.js",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Image crop directive for AngularJS",
   "license": "MIT",
   "homepage": "https://github.com/jerwheaton/ngImgCrop",
